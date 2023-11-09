@@ -5,7 +5,7 @@ Membuat Aplikasi Catering Sederhana dengan Android Studio
 https://youtu.be/YpGac1bY2Tw
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2019/05/tutorial-membuat-aplikasi-catering.html
+https://rivaldi48.blogspot.com/2023/08/tutorial-membuat-aplikasi-catering.html
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiciwATHmqKDbCSOOTpPjx2jQ75dACIHtfLLyO0404cwbBGGsO7wBqPzCB66mQReJPLKBMBtidLNA13IsViLaEBFX1x5w2_235_ENMtf4cTNxENQCtQjDt60YS6Dfntx-XP0utrjfHB1t4FJ4LU9QlHjvwjRWXx70G7jTsw83QRcWB-l7EymIQPakPEtzyz/s1280/Tutorial%20Membuat%20Aplikasi%20Catering%20Sederhana%20dengan%20Android%20Studio.png" style="max-width:100%;">
 
